@@ -47,3 +47,16 @@ h2 {
 .col-md-12 {
     padding-top: 70px;
 }
+
+/*aligning button to center*/
+#buttons {
+    text-align: center;
+}
+
+/*styling button*/
+#button {
+    background-color: #9C1C00;
+    color: white;
+    border-radius: 8px;
+    font-weight: bold;
+}
