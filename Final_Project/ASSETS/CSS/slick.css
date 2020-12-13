@@ -1,0 +1,50 @@
+/*setting content font*/
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*centering header text*/
+h1 {
+    text-align: center;
+    text-decoration: none;
+}
+
+/*styling header text and removing active link*/
+h1 a {
+    text-decoration: none;
+    color: #C0A187; 
+    font-size: 72px;
+}
+
+/*styling text in navigation bar*/
+#topnav {
+    font-size: 48px;
+    text-align: center;
+}
+
+/*removing active linke*/
+#topnav a {
+    text-decoration: none;
+    color: #C0A187;
+}
+
+/*styling content title*/
+h2 {
+    font-size: 42px;
+}
+
+/*adding space to top of row*/
+.col-md-6 {
+    padding-top: 70px;
+}
+
+/*adding space to top of row*/
+.col-md-4 {
+    padding-top: 70px;
+}
+
+/*adding space to top of row*/
+.col-md-12 {
+    padding-top: 70px;
+}
+

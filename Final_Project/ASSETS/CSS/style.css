@@ -1,0 +1,46 @@
+/*setting the font and color for content text*/
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #C0A187;
+    justify-content: center;
+}
+
+/*styling typed text*/
+#main {
+    font-size: 72px;
+    text-align: center;
+}
+
+/*styling the border around typed text*/
+.box {
+    border-style:solid;
+    border-color:#C0A187;
+    padding: 2em;
+    width: 700px;   
+}
+
+/*styling the text inside the box*/
+.col-md-12 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-self: center;
+}
+
+/*styling navigation bar below box*/
+.col-md-4 {
+    padding-top: 70px;
+    text-align: center;
+    font-size: 36px;
+}
+
+/*removing active link in navigation bar*/
+.col-md-4 a {
+    text-decoration: none;
+    color: #C0A187;
+}
+
+/*moving the location of box and navigation bar*/
+.container {
+    padding-top: 15%;
+}
